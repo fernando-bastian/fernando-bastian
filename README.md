@@ -1,5 +1,6 @@
 Olá! Eu sou Fernando Bastian 👋
 🎓 Engenharia de Computação | Santa Rosa/RS
+##
 Apaixonado por tecnologia e desenvolvimento de software, com foco em criar soluções eficientes e inovadoras. Atualmente explorando as intersecções entre desenvolvimento web e inteligência artificial.
 ##
 🚀 Sobre Mim
@@ -13,7 +14,7 @@ Apaixonado por tecnologia e desenvolvimento de software, com foco em criar solu�
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernando-bastian&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernando-bastian&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
+##
 <div style="display: inline_block"><br>
   <img align="center" alt="Fernando-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Fernando-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
