@@ -1,5 +1,5 @@
-Olá! Eu sou Fernando Bastian 👋
-🎓 Engenharia de Computação | Santa Rosa/RS
+Olá! Eu sou Fernando Bastian 
+🎓 Engenheiro de Computação | Santa Rosa/RS
 ##
 Apaixonado por tecnologia e desenvolvimento de software, com foco em criar soluções eficientes e inovadoras. Atualmente explorando as intersecções entre desenvolvimento web e inteligência artificial.
 ##
@@ -14,9 +14,6 @@ Apaixonado por tecnologia e desenvolvimento de software, com foco em criar solu�
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=fernando-bastian&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fernando-bastian&layout=compact&langs_count=7&theme=radical"/>
 </div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fernando-bastian&theme=radical&hide_border=false" alt="GitHub Streak"/>
-</div>
 ##
 <div style="display: inline_block"><br>
   <img align="center" alt="Fernando-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -26,8 +23,6 @@ Apaixonado por tecnologia e desenvolvimento de software, com foco em criar solu�
   <img align="center" alt="Fernando-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Fernando-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-  
-  ##
 
  📫 Entre em Contato
 <div> 
