@@ -12,7 +12,6 @@ Apaixonado por tecnologia e desenvolvimento de software, com foco em criar solu�
 📊 Estatísticas do GitHub
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=fernando-bastian&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fernando-bastian&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 # Competências Técnicas
