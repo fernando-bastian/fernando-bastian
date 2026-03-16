@@ -1,7 +1,7 @@
 # Fernando Bastian 
 🎓 Engenharia de Computação | SETREM/RS
 
-Apaixonado por tecnologia e desenvolvimento de software, com foco em criar soluções eficientes e inovadoras. Atualmente explorando as intersecções entre desenvolvimento web e inteligência artificial.
+Apaixonado por tecnologia e desenvolvimento de software, com foco em criar soluções eficientes e inovadoras. Atualmente explorando as intersecções entre desenvolvimento de software e inteligência artificial.
 ##
 # Perfil
 
