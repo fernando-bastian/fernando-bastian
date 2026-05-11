@@ -6,6 +6,7 @@ Apaixonado por tecnologia e desenvolvimento de software, com foco em criar solu�
 # Perfil
 
 💻 Engenheiro de Computação em formação
+
 📄 Estudando e desenvolvendo em Java Backend e Inteligência Artificial
 
 📊 Estatísticas do GitHub
