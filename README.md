@@ -1,13 +1,12 @@
 # Fernando Bastian 
-🎓 Engenharia de Computação | SETREM/RS
+Engenharia de Computação | SETREM/RS
 
 Apaixonado por tecnologia e desenvolvimento de software, com foco em criar soluções eficientes e inovadoras. Atualmente explorando as intersecções entre desenvolvimento de software e inteligência artificial.
 ##
 # Perfil
 
 💻 Engenheiro de Computação em formação
-📄 Estudando e desenvolvendo em Frontend, Backend e Inteligência Artificial
-🎯 Focado em aprender e aplicar novas tecnologias
+📄 Estudando e desenvolvendo em Java Backend e Inteligência Artificial
 
 📊 Estatísticas do GitHub
 <div align="center">
@@ -16,20 +15,15 @@ Apaixonado por tecnologia e desenvolvimento de software, com foco em criar solu�
 
 # Competências Técnicas
 <div style="display: inline_block"><br>
-  <img align="center" alt="Fernando-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Fernando-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Fernando-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Fernando-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Fernando-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Fernando-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Fernando-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/java-original.svg">
+  <img align="center" alt="Fernando-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/spring-original.svg">
 </div>
 
 ##
-###  📫 Entre em Contato
+###  Entre em Contato
 
 
 <div> 
-  <a href="https://instagram.com/bsfernando_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:bsfernandom@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fernando-bastian-345442240/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
