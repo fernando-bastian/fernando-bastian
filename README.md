@@ -1,16 +1,27 @@
-<h1 align="center">Fernando Bastian</h1>
+# Hi, I'm Fernando Bastian
 
-<p align="center"><strong>Engenharia de Computação · SETREM/RS</strong></p>
+**Software Developer | Computer Engineering Student**
 
-Desenvolvo projetos de backend em Java e estudo aplicações de inteligência artificial no desenvolvimento de software.
+Currently working on credit decisioning systems, business rules and external integrations.
 
-## Projetos em destaque
+## Tech Stack
 
-- **Gestão financeira** — Projeto acadêmico para gerenciar contas, receitas, despesas e transferências. [API em Java, Quarkus e PostgreSQL](https://github.com/fernando-bastian/back-end-quarkus) · [Interface em Angular](https://github.com/fernando-bastian/front-end-angular)
-- **Análise de crédito** — Desafio em Java que lê arquivos CSV, aplica regras de crédito por prioridade e exporta as decisões. [Código do desafio](https://github.com/fernando-bastian/desafio-lowcode-java)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-[Ver atividade no GitHub](https://github.com/fernando-bastian#js-contribution-activity)
+## Interests
 
-## Contato
+- Backend Engineering
+- Software Architecture & System Design
+- AI-Assisted Software Development
+- Context & Harness Engineering
+- Distributed Systems
 
-[LinkedIn](https://www.linkedin.com/in/fernando-bastian-345442240/) · [E-mail](mailto:bsfernandom@gmail.com)
+## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logoColor=white)](https://www.linkedin.com/in/fernando-bastian-345442240/) 
