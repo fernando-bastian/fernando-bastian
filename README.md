@@ -1,31 +1,16 @@
-# Fernando Bastian 
-Engenharia de Computação | SETREM/RS
+<h1 align="center">Fernando Bastian</h1>
 
-Apaixonado por tecnologia e desenvolvimento de software, com foco em criar soluções eficientes e inovadoras. Atualmente explorando as intersecções entre desenvolvimento de software e inteligência artificial.
-##
-# Perfil
+<p align="center"><strong>Engenharia de Computação · SETREM/RS</strong></p>
 
-💻 Engenheiro de Computação em formação
+Desenvolvo projetos de backend em Java e estudo aplicações de inteligência artificial no desenvolvimento de software.
 
-📄 Estudando e desenvolvendo em Java Backend e Inteligência Artificial
+## Projetos em destaque
 
-📊 Estatísticas do GitHub
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=fernando-bastian&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-</div>
+- **Gestão financeira** — Projeto acadêmico para gerenciar contas, receitas, despesas e transferências. [API em Java, Quarkus e PostgreSQL](https://github.com/fernando-bastian/back-end-quarkus) · [Interface em Angular](https://github.com/fernando-bastian/front-end-angular)
+- **Análise de crédito** — Desafio em Java que lê arquivos CSV, aplica regras de crédito por prioridade e exporta as decisões. [Código do desafio](https://github.com/fernando-bastian/desafio-lowcode-java)
 
-# Competências Técnicas
-<div style="display: inline_block"><br>
-<img align="center" alt="Java" height="40" width="50"
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-</div>
+[Ver atividade no GitHub](https://github.com/fernando-bastian#js-contribution-activity)
 
-##
-###  Entre em Contato
+## Contato
 
-
-<div> 
-  <a href = "mailto:bsfernandom@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/fernando-bastian-345442240/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+[LinkedIn](https://www.linkedin.com/in/fernando-bastian-345442240/) · [E-mail](mailto:bsfernandom@gmail.com)
